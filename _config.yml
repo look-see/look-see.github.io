@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 show_downloads: true
 description: A simple and straightforward way of testing web components.
+github:
+  repository_url: https://github.com/look-see/looksee
+  zip_url: https://github.com/look-see/looksee/zipball/main
+  tar_url: https://github.com/look-see/looksee/tarball/main
